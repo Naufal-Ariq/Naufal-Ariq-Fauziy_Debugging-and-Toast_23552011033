@@ -34,7 +34,6 @@ Mempelajari penggunaan komponen input pada Android Native seperti:
 |--------------------------------------|----------------------------------------|-------------------------------------|
 | ![form](screenshots/form.png)        | ![alert](screenshots/alert.png)        | ![datepicker](screenshots/date.png) |
 
-> 💡 Letakkan screenshot kamu di folder `screenshots` agar tampil di atas seperti ini.
 
 ---
 
