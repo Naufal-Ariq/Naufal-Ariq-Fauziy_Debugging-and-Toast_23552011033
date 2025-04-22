@@ -1,3 +1,10 @@
+# ⚒ Project Input Control Pada Android Native
+
+- Mata Kuliah : Pemrograman Mobile 1
+- Dosen Pengampu : Nova Agustina, ST., M.Kom.
+
+---
+
 # 👱🏻‍♂ Profile 
 
 - Nama : Naufal Ariq Fauziy
