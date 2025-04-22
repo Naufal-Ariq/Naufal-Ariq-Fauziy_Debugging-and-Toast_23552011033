@@ -1,3 +1,11 @@
+# 👱🏻‍♂ Profil 
+
+• Nama : Naufal Ariq Fauziy
+• Nim  : 23552011033
+• Kelas: TIF-223PC-CNS
+
+---
+
 # 📱 Tugas Android: Input Control
 
 Aplikasi Android Native sederhana untuk mempraktikkan **Input Control** seperti:
@@ -43,9 +51,8 @@ Mempelajari penggunaan komponen input pada Android Native seperti:
 ---
 
 ## 🧑‍💻 Cara Menjalankan
-1. Clone repo ini ke Android Studio
-2. Jalankan pada emulator / perangkat fisik
-3. Isi nomor, pilih tanggal, dan tekan tombol untuk melihat output Toast / Alert
+1. Jalankan pada emulator / perangkat fisik seperti hp android 
+2. Isi nomor, pilih tanggal, dan tekan tombol untuk melihat output Toast / Alert
 
 ---
 
