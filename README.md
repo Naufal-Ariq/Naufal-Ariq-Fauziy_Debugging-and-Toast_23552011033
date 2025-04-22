@@ -1,8 +1,8 @@
 # 👱🏻‍♂ Profil 
 
-• Nama : Naufal Ariq Fauziy
-• Nim  : 23552011033
-• Kelas: TIF-223PC-CNS
+- Nama : Naufal Ariq Fauziy
+- Nim  : 23552011033
+- Kelas: TIF-223PC-CNS
 
 ---
 
