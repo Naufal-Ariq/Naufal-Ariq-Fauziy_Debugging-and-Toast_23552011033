@@ -36,7 +36,7 @@ Mempelajari penggunaan komponen input pada Android Native seperti:
 
 | Tampilan Aplikasi Bookingku          |
 |--------------------------------------|
-| ![Aplikasi](https://github.com/user-attachments/assets/b25ed5d7-7265-406d-abee-abbdf03e091f) |
+| ![Aplikasi](https://github.com/user-attachments/assets/b25ed5d7-7265-406d-abee-abbdf03e091f)                        |
 
 
 
