@@ -32,7 +32,7 @@ Mempelajari penggunaan komponen input pada Android Native seperti:
 
 | Input & Tombol                        | Alert Dialog                           | Date Picker                         |
 |--------------------------------------|----------------------------------------|-------------------------------------|
-| ![form](screenshots/form.png)        | ![alert](screenshots/alert.png)        | ![datepicker](screenshots/date.png) |
+| ![form](https://github.com/user-attachments/assets/976988ce-4224-4932-abfd-27c7fa06cba7)        | ![alert](screenshots/alert.png)        | ![datepicker](screenshots/date.png) |
 
 
 ---
