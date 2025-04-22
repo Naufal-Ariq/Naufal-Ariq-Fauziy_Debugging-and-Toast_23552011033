@@ -9,7 +9,7 @@
 
 - Nama : Naufal Ariq Fauziy
 - Nim  : 23552011033
-- Kelas: TIF-223PC-CNS
+- Kelas: TIF-223PC-CNS-C
 
 ---
 
