@@ -1,4 +1,4 @@
-# 👱🏻‍♂ Profil 
+# 👱🏻‍♂ Profile 
 
 - Nama : Naufal Ariq Fauziy
 - Nim  : 23552011033
