@@ -36,7 +36,7 @@ Pesan Toast digunakan untuk memberi umpan balik kepada pengguna mengenai aksi te
             }, year, month, day).show()
         }
 
-    ![Image](https://github.com/user-attachments/assets/556bf5f0-1fee-4c64-908d-dda9afcc5dc9)
+![Image](https://github.com/user-attachments/assets/556bf5f0-1fee-4c64-908d-dda9afcc5dc9)
 
 
 ## 🖼️ Tampilan Aplikasi
