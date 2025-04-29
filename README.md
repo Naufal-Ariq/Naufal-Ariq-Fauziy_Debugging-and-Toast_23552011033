@@ -13,35 +13,29 @@
 
 ---
 
-# 📱 Tugas Android: Input Control
+## Debugging dan Toast 
 
-Aplikasi Android Native sederhana untuk mempraktikkan **Input Control** seperti:
-- 📅 Date Picker
-- ⚠️ Alert Dialog
-- 🍞 Toast
-- 📞 Input Nomor Telepon
+-Penggunaan Log
+Pernyataan Log digunakan di seluruh aplikasi untuk memantau keadaan dan aksi internal untuk debugging dan pelacakan.
+-Penggunaan Toast
+Pesan Toast digunakan untuk memberi umpan balik kepada pengguna mengenai aksi tertentu atau memberikan pemberitahuan tentang input mereka.
 
----
+## Source code dan Screenshoot
 
-## 🎯 Tujuan
-Mempelajari penggunaan komponen input pada Android Native seperti:
-- Mengambil input dari user
-- Menampilkan dialog pemilihan tanggal
-- Menampilkan notifikasi singkat (Toast)
-- Menampilkan alert konfirmasi (AlertDialog)
+    btnPickDate.setOnClickListener {
+            val c = Calendar.getInstance()
+            val year = c.get(Calendar.YEAR)
+            val month = c.get(Calendar.MONTH)
+            val day = c.get(Calendar.DAY_OF_MONTH)
 
----
+            DatePickerDialog(this, { _, y, m, d ->
+                selectedDate = "$d/${m + 1}/$y"
+                tvDate.text = "Tanggal dipilih: $selectedDate"
+                Toast.makeText(this, "Tanggal dipilih: $selectedDate", Toast.LENGTH_SHORT).show()
+                Log.v("MainActivity", "Tanggal dipilih: $selectedDate")
+            }, year, month, day).show()
+        }
 
-## 🚀 Fitur yang Diimplementasikan
-
-| Fitur            | Implementasi                                                                 |
-|------------------|------------------------------------------------------------------------------|
-| 📞 Input Nomor   | `EditText` dengan `inputType="phone"`                                       |
-| 📅 Date Picker   | `DatePickerDialog` untuk memilih tanggal                                     |
-| ⚠️ Alert Dialog  | `AlertDialog` konfirmasi ketika user menekan tombol tertentu                |
-| 🍞 Toast         | `Toast.makeText(...)` untuk menampilkan input user secara singkat            |
-
----
 
 ## 🖼️ Tampilan Aplikasi
 
@@ -57,10 +51,6 @@ Mempelajari penggunaan komponen input pada Android Native seperti:
 
 ---
 
-## 🧑‍💻 Cara Menjalankan
-1. Jalankan pada emulator / perangkat fisik seperti hp android 
-2. Isi nomor, pilih tanggal, dan tekan tombol untuk melihat output Toast / Alert
 
----
 
 
